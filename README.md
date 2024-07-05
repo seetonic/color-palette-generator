@@ -11,4 +11,5 @@ https://seetonic.github.io/color-palette-generator/
 
 ## Preview
 
-https://github.com/seetonic/color-palette-generator/blob/90fcd24baace86548f80d84eb9399b482d159490/Preview/color-palette-generator.PNG
+
+![color-palette-generator](https://github.com/seetonic/color-palette-generator/assets/174184391/3c645b37-620c-42ff-8b54-0b201de27d4d)
